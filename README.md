@@ -11,7 +11,7 @@ Para que os módulos e componentes funcionem bem, você precisa de um ambiente `
 
 ### Iniciando os trabalhos
 
-Para começar a trabalhar no projeto, baixe o zip do respositório e, em seguida, crie e configure um repositório **no seu GitHub** para receber as modificações. Para entregá-lo, suba suas modificações e siga as instruções da seção *Entregando o seu Teste*.
+Para começar a trabalhar no projeto, utilize o zip do respositório enviado por email, em seguida, crie e configure um repositório **no seu GitHub**. Para entregá-lo, suba suas modificações e siga as instruções da seção *Entregando o seu Teste*.
 
 ### Objetivo 1
 
